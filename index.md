@@ -10,6 +10,7 @@ layout: default
 ## 1. Introduction
 
 Bienvenue dans la politique de confidentialité de Plank Challenge. Cette politique explique comment nous collectons, utilisons et protégeons vos informations personnelles.
+Plank Challenge s'engage à respecter les règles pour les contenus familiaux de Play.
 
 ## 2. Données Collectées
 
